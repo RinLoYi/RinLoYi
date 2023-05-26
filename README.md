@@ -3,7 +3,6 @@
 
 ### I'm LingLuoYi
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 I'm a middle school student in China
 - 📫 This is my email : [1514299108@qq.com](mailto:1514299108@qq.com)
 - ⭐ Look my [coolapk](http://www.coolapk.com/u/9960587)
