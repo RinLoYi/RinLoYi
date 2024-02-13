@@ -1,7 +1,7 @@
 <h1 align="center">Hello! Friend!</h1>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ling-LuoYi&include_all_commits=true&show_icons=true&count_private=true&hide_border=true" />
 
-### I'm LingLuoYi
+### I'm RinLoYi
 
 - 🌱 I'm a middle school student in China
 - 📫 This is my email : [1514299108@qq.com](mailto:1514299108@qq.com)
