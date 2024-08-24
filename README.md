@@ -1,6 +1,4 @@
 <h1 align="center">Hello! Friend!</h1>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ling-LuoYi&include_all_commits=true&show_icons=true&count_private=true&hide_border=true" />
-
 ### I'm RinLoYi
 
 - 🌱 I'm a middle school student in China
