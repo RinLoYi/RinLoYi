@@ -1,4 +1,5 @@
 <h1 align="center">Hello! Friend!</h1>
+[![RinLoYi's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=RinLoYi&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&theme=catppuccin_latte&theme=graywhite&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ### I'm RinLoYi
 
 - 🌱 I'm a middle school student in China
